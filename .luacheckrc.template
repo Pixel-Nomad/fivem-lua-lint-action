@@ -272,6 +272,13 @@ stds.mysql = {
     }
 }
 
+stds.customs = {
+    read_globals = {
+        "vehicle_generator",
+        "spawnpoint",
+    }
+}
+
 stds.polyzone = {
     read_globals = {
         "PolyZone",
