@@ -32,7 +32,7 @@ stds.cfx = {
                 "SetDuplicateRefRoutine",
                 "GetFunctionReference",
                 "InvokeFunctionReference",
-                "Traits" = {
+                Traits = {
                     fields = {
                         "ProvidesExports"
                     }
