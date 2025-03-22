@@ -283,9 +283,11 @@ stds.customs = {
         "spawnpoint",
         "money_fountain",
         "ngx",
-        "roundEnded",
         "RconPrint",
-        "getMaps",
+        "env",
+        "N_0x283978a15512b2fe",
+        "RconLog",
+        "GetPlayerEP",
     }
 }
 
