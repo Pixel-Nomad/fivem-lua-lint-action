@@ -31,7 +31,12 @@ stds.cfx = {
                 "SetDeleteRefRoutine",
                 "SetDuplicateRefRoutine",
                 "GetFunctionReference",
-                "InvokeFunctionReference"
+                "InvokeFunctionReference",
+                "Traits" = {
+                    fields = {
+                        "ProvidesExports"
+                    }
+                }
             }
         },
         exports = { other_fields = true },
@@ -276,6 +281,17 @@ stds.customs = {
     read_globals = {
         "vehicle_generator",
         "spawnpoint",
+        "money_fountain",
+        "setComponentColor",
+        "setComponentAlpha",
+        "setComponentVisibility",
+        "setWantedLevel",
+        "setHealthBarColor",
+        "setHealthBarColor",
+        "ngx",
+        "roundEnded",
+        "RconPrint",
+        "getMaps",
     }
 }
 
